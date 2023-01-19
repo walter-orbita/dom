@@ -63,6 +63,77 @@
           "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
         }
       ]
+    },
+    {
+      "id_diario": "307",
+      "ano": "2023",
+      "data_cadastro": "2023-01-09 16:37:30",
+      "data_publicacao": "2023-01-10 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9002/2023",
+          "codigo_identificador": "L92OIEB151",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 3° TERMO DE ADITIVO AO CONTRATO Nº 20200439",
+          "codigo_identificador": "HOW69OD142",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 3° TERMO DE ADITIVO AO CONTRATO Nº 20200441",
+          "codigo_identificador": "UWT6MTZ143",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "308",
+      "ano": "2023",
+      "data_cadastro": "2023-01-10 16:37:30",
+      "data_publicacao": "2023-01-11 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Decreto n° 0002/2023-GPM",
+          "codigo_identificador": "YO4UHBA1788",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0003/2023-GPMB",
+          "codigo_identificador": "AY74RPX172",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 0032/2023",
+          "codigo_identificador": "1SF2JK8169",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "309",
+      "ano": "2023",
+      "data_cadastro": "2023-01-11 16:36:58",
+      "data_publicacao": "2023-01-12 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1cEjcs_RPdJqaVrF9PZdulcADz9Tg8gMM/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
+          "codigo_identificador": "MNQADAM186",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        }
+      ]
     }
   ]
 }
