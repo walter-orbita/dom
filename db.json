@@ -5,22 +5,21 @@
       "ano": "2021",     
       "data_publicacao": "2021-11-08 12:00:00",
       "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
-      
+      "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+    },      
     {
       "id_diario": "153",
       "ano": "2022",     
       "data_publicacao": "2022-06-03 08:40:00",
       "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing",
-      
+      "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"      
     },    
     {
       "id_diario": "308",
       "ano": "2023",     
       "data_publicacao": "2023-01-11 06:00:00",
       "tipo_diario": "0",     
-      "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",      
+      "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"     
     } 
   ]
 }
