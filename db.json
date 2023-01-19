@@ -148,31 +148,7 @@
           "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
         }
       ]
-    },
-    {
-      "id_diario": "304",
-      "ano": "2023",      
-      "data_publicacao": "2023-01-05 09:23:00",
-      "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1JZuzH4Gcj7JTnJoh7a7ofkXdvq6kNtUK/view?usp=sharin",
-      "publicacoes": [
-        {
-          "titulo": "Portaria nº1455/2022 - SEMAT",
-          "codigo_identificador": "UF6H5PB051",
-          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
-        },
-        {
-          "titulo": "Portaria nº.1456/2022 - SEMAT",
-          "codigo_identificador": "ETS8YWP052",
-          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
-        },
-        {
-          "titulo": "Portaria nº.1457/2022 - SEMAT",
-          "codigo_identificador": "UWO41GY053",
-          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
-        }
-      ]
-    },
+    },   
     {
       "id_diario": "305",
       "ano": "2023",      
@@ -268,31 +244,6 @@
           "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
         }
       ]
-    },
-    {
-      "id_diario": "309",
-      "ano": "2023",      
-      "data_publicacao": "2023-01-12 06:00:00",
-      "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1cEjcs_RPdJqaVrF9PZdulcADz9Tg8gMM/view?usp=sharing",
-      "publicacoes": [
-        {
-          "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
-          "codigo_identificador": "MNQADAM186",
-          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
-        }
-      ]
-    }
-  ],
-  "publicacoes": [
-    {
-      "id_diario": "309",
-      "ano": "2023",
-      "data_publicacao": "2023-01-12 06:00:00",
-      "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
-      "codigo_identificador": "MNQADAM186",
-      "endereco_diario": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
-    }
+    },  
   ]
 }
