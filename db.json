@@ -65,6 +65,33 @@
       ]
     },
     {
+      "id_diario": "306",
+      "ano": "2023",
+      "data_cadastro": "2023-01-09 08:50:51",
+      "data_publicacao": "2023-01-09 08:54:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 1274/2022",
+          "codigo_identificador": "NXKPQ3X101",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 20171150",
+          "codigo_identificador": "BISA3EH103",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 20211200",
+          "codigo_identificador": "M717RUV109",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        }
+      ]
+    },
+    {
       "id_diario": "307",
       "ano": "2023",
       "data_cadastro": "2023-01-09 16:37:30",
