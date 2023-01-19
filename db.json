@@ -1,25 +1,68 @@
-{
-  "diarios": [
+"diarios": [
     {
       "id_diario": "1",
-      "ano": "2021",     
+      "ano": "2021",
+      "data_cadastro": "2021-11-08 09:48:40",
       "data_publicacao": "2021-11-08 12:00:00",
-      "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
-    },      
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0657/2021-GPMB, DE 25 DE OUTUBRO DE 2021",
+          "codigo_identificador": "E43QSL8002",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0889/2021 - SEMAT",
+          "codigo_identificador": "4IY7OKC003",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0890/2021 - SEMAT",
+          "codigo_identificador": "9XAY3GH004",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0891/2021 - SEMAT",
+          "codigo_identificador": "2SQOCC9005",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        }
+      ]
+    },
     {
-      "id_diario": "153",
-      "ano": "2022",     
-      "data_publicacao": "2022-06-03 08:40:00",
-      "tipo_diario": "0",      
-      "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"      
-    },    
-    {
-      "id_diario": "308",
-      "ano": "2023",     
-      "data_publicacao": "2023-01-11 06:00:00",
-      "tipo_diario": "0",     
-      "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"     
-    } 
+      "id_diario": "5",
+      "ano": "2021",
+      "data_cadastro": "2021-11-15 21:10:49",
+      "data_publicacao": "2021-11-16 08:30:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "1° TERMO ADITIVO AO CONTRATO N° 20210042",
+          "codigo_identificador": "R4HX3JH097",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210193",
+          "codigo_identificador": "2JHATLJ089",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210208",
+          "codigo_identificador": "WB9ZXSJ088",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210504",
+          "codigo_identificador": "GH9R9SF091",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        }
+      ]
+    }
   ]
-}
+  }
+ 
