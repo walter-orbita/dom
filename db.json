@@ -65,6 +65,33 @@
       ]
     },
     {
+      "id_diario": "283",
+      "ano": "2022",
+      "data_cadastro": "2022-12-06 08:35:05",
+      "data_publicacao": "2022-12-06 08:44:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0698/2022-GPMB, DE 03 DE OUTUBRO DE 2022.",
+          "codigo_identificador": "EC6T1UO340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 1391/2022",
+          "codigo_identificador": "MVFDJ9K340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DO CONTRATO Nº 1245/2022",
+          "codigo_identificador": "ONU7W32416",
+          "endereco": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link"
+        }
+      ]
+    },
+    {
       "id_diario": "306",
       "ano": "2023",
       "data_cadastro": "2023-01-09 08:50:51",
