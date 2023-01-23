@@ -13,21 +13,7 @@
       "data_publicacao": "2021-11-16 08:30:00",
       "tipo_diario": "0",
       "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-    },
-    {
-      "id_diario": "18",
-      "ano": "2021",
-      "data_publicacao": "2021-12-02 10:00:00",
-      "tipo_diario": "0",
-      "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-    },
-    {
-      "id_diario": "41",
-      "ano": "2022",
-      "data_publicacao": "2022-01-04 09:00:00",
-      "tipo_diario": "0",
-      "endereco": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "153",
       "ano": "2022",
@@ -41,14 +27,7 @@
       "data_publicacao": "2022-08-30 09:10:00",
       "tipo_diario": "0",
       "endereco": "https://drive.google.com/file/d/1Tgur2dvYrHtTFoYAWS1fYlMLJXVAdVRr/view?usp=sharing"
-    },
-    {
-      "id_diario": "241",
-      "ano": "2022",
-      "data_publicacao": "2022-10-05 09:17:00",
-      "tipo_diario": "0",
-      "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
-    },
+    },    
     {
       "id_diario": "283",
       "ano": "2022",
