@@ -137,17 +137,7 @@
       "codigo_identificador": "E43QSL8002",
       "endereco_diario": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
-    },
-    {
-      "id_diario": "1",
-      "ano": "2021",
-      "data_publicacao": "2021-11-08 12:00:00",
-      "tipo_diario": "0",
-      "titulo": "Portaria nº0889/2021 - SEMAT",
-      "codigo_identificador": "4IY7OKC003",
-      "endereco_diario": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "1",
       "ano": "2021",
@@ -157,17 +147,7 @@
       "codigo_identificador": "9XAY3GH004",
       "endereco_diario": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
-    },
-    {
-      "id_diario": "1",
-      "ano": "2021",
-      "data_publicacao": "2021-11-08 12:00:00",
-      "tipo_diario": "0",
-      "titulo": "Portaria nº0891/2021 - SEMAT",
-      "codigo_identificador": "2SQOCC9005",
-      "endereco_diario": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
-    },
+    },  
     {
       "id_diario": "5",
       "ano": "2021",
@@ -187,27 +167,7 @@
       "codigo_identificador": "2JHATLJ089",
       "endereco_diario": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-    },
-    {
-      "id_diario": "5",
-      "ano": "2021",
-      "data_publicacao": "2021-11-16 08:30:00",
-      "tipo_diario": "0",
-      "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210208",
-      "codigo_identificador": "WB9ZXSJ088",
-      "endereco_diario": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-    },
-    {
-      "id_diario": "5",
-      "ano": "2021",
-      "data_publicacao": "2021-11-16 08:30:00",
-      "tipo_diario": "0",
-      "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210504",
-      "codigo_identificador": "GH9R9SF091",
-      "endereco_diario": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "18",
       "ano": "2021",
@@ -227,17 +187,7 @@
       "codigo_identificador": "U3AUEO8235",
       "endereco_diario": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-    },
-    {
-      "id_diario": "18",
-      "ano": "2021",
-      "data_publicacao": "2021-12-02 10:00:00",
-      "tipo_diario": "0",
-      "titulo": "Portaria n° 01006/2021 - SEMAT",
-      "codigo_identificador": "H52KPZY233",
-      "endereco_diario": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "41",
       "ano": "2022",
@@ -257,17 +207,7 @@
       "codigo_identificador": "W9E6XIE015",
       "endereco_diario": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
-    },
-    {
-      "id_diario": "41",
-      "ano": "2022",
-      "data_publicacao": "2022-01-04 09:00:00",
-      "tipo_diario": "0",
-      "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9-004/2022",
-      "codigo_identificador": "GWFX1PE016",
-      "endereco_diario": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
-    },
+    },    
     {
       "id_diario": "78",
       "ano": "2022",
@@ -287,17 +227,7 @@
       "codigo_identificador": "XWA8L1M563",
       "endereco_diario": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
-    },
-    {
-      "id_diario": "78",
-      "ano": "2022",
-      "data_publicacao": "2022-02-17 07:39:00",
-      "tipo_diario": "0",
-      "titulo": "ERRATA DO CONTRATO 20210564",
-      "codigo_identificador": "H6WH1RG561",
-      "endereco_diario": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
-    },
+    },    
     {
       "id_diario": "89",
       "ano": "2022",
@@ -307,27 +237,7 @@
       "codigo_identificador": "BA7QCHK738",
       "endereco_diario": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
-    },
-    {
-      "id_diario": "89",
-      "ano": "2022",
-      "data_publicacao": "2022-03-07 08:30:00",
-      "tipo_diario": "1",
-      "titulo": "Portaria n° 0105/2022 - SEMAT",
-      "codigo_identificador": "L8XYT3N743",
-      "endereco_diario": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
-    },
-    {
-      "id_diario": "89",
-      "ano": "2022",
-      "data_publicacao": "2022-03-07 08:30:00",
-      "tipo_diario": "1",
-      "titulo": "Portaria n° 0117/2022 - SEMAT",
-      "codigo_identificador": "SXHUXD2746",
-      "endereco_diario": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
-    },
+    },  
     {
       "id_diario": "153",
       "ano": "2022",
@@ -337,27 +247,7 @@
       "codigo_identificador": "BA7QCHK738",
       "endereco_diario": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
-    },
-    {
-      "id_diario": "153",
-      "ano": "2022",
-      "data_publicacao": "2022-06-03 08:40:00",
-      "tipo_diario": "0",
-      "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20210487",
-      "codigo_identificador": "06VRO7L193",
-      "endereco_diario": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
-    },
-    {
-      "id_diario": "153",
-      "ano": "2022",
-      "data_publicacao": "2022-06-03 08:40:00",
-      "tipo_diario": "0",
-      "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20210508",
-      "codigo_identificador": "PD8JRJR194",
-      "endereco_diario": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
-    },
+    },    
     {
       "id_diario": "216",
       "ano": "2022",
@@ -397,17 +287,7 @@
       "codigo_identificador": "EC6T1UO340",
       "endereco_diario": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
-    },
-    {
-      "id_diario": "241",
-      "ano": "2022",
-      "data_publicacao": "2022-10-05 09:17:00",
-      "tipo_diario": "0",
-      "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20220659",
-      "codigo_identificador": "MVFDJ9K340",
-      "endereco_diario": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
-    },
+    },    
     {
       "id_diario": "241",
       "ano": "2022",
@@ -427,17 +307,7 @@
       "codigo_identificador": "EC6T1UO340",
       "endereco_diario": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link",
       "endereco_publicacao": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link"
-    },
-    {
-      "id_diario": "283",
-      "ano": "2022",
-      "data_publicacao": "2022-12-06 08:44:00",
-      "tipo_diario": "0",
-      "titulo": "EXTRATO DE CONTRATO Nº 1391/2022",
-      "codigo_identificador": "MVFDJ9K340",
-      "endereco_diario": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link",
-      "endereco_publicacao": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link"
-    },
+    },  
     {
       "id_diario": "283",
       "ano": "2022",
@@ -457,27 +327,7 @@
       "codigo_identificador": "GY1H5XS021",
       "endereco_diario": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing"
-    },
-    {
-      "id_diario": "302",
-      "ano": "2022",
-      "data_publicacao": "2023-01-03 09:09:00",
-      "tipo_diario": "0",
-      "titulo": "Decreto n° 0786/2022-GPMB",
-      "codigo_identificador": "REDCRF5022",
-      "endereco_diario": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing"
-    },
-    {
-      "id_diario": "302",
-      "ano": "2022",
-      "data_publicacao": "2023-01-03 09:09:00",
-      "tipo_diario": "0",
-      "titulo": "Decreto n° 0787/2022-GPMB",
-      "codigo_identificador": "K9594YQ023",
-      "endereco_diario": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "303",
       "ano": "2023",
@@ -497,17 +347,7 @@
       "codigo_identificador": "LZAIYDM031\"",
       "endereco_diario": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
-    },
-    {
-      "id_diario": "303",
-      "ano": "2023",
-      "data_publicacao": "2023-01-04 09:45:00",
-      "tipo_diario": "1",
-      "titulo": "Decreto n° 0793/2022-GPMB",
-      "codigo_identificador": "5NR5X7C032",
-      "endereco_diario": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "304",
       "ano": "2023",
@@ -607,17 +447,7 @@
       "codigo_identificador": "L92OIEB151",
       "endereco_diario": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
-    },
-    {
-      "id_diario": "307",
-      "ano": "2023",
-      "data_publicacao": "2023-01-10 06:00:00",
-      "tipo_diario": "0",
-      "titulo": "EXTRATO DE 3° TERMO DE ADITIVO AO CONTRATO Nº 20200439",
-      "codigo_identificador": "HOW69OD142",
-      "endereco_diario": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
-    },
+    },  
     {
       "id_diario": "307",
       "ano": "2023",
@@ -637,17 +467,7 @@
       "codigo_identificador": "YO4UHBA1788",
       "endereco_diario": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
-    },
-    {
-      "id_diario": "308",
-      "ano": "2023",
-      "data_publicacao": "2023-01-11 06:00:00",
-      "tipo_diario": "1",
-      "titulo": "Decreto n° 0003/2023-GPMB",
-      "codigo_identificador": "AY74RPX172",
-      "endereco_diario": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
-    },
+    },   
     {
       "id_diario": "308",
       "ano": "2023",
