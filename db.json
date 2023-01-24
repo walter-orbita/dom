@@ -112,6 +112,56 @@
       "codigo_identificador": "R4HX3JH097",
       "endereco_diario": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
       "endereco_publicacao": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-    }
+    },
+    {
+      "id_diario": "41",
+      "ano": "2022",
+      "data_publicacao": "2022-01-04 09:00:00",
+      "tipo_diario": "0",
+      "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9-004/2022",
+      "codigo_identificador": "GWFX1PE016",
+      "endereco_diario": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
+    },
+    {
+      "id_diario": "78",
+      "ano": "2022",
+      "data_publicacao": "2022-02-17 07:39:00",
+      "tipo_diario": "0",
+      "titulo": "ERRATA DO CONTRATO 20210564",
+      "codigo_identificador": "H6WH1RG561",
+      "endereco_diario": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
+    },
+    {
+      "id_diario": "89",
+      "ano": "2022",
+      "data_publicacao": "2022-03-07 08:30:00",
+      "tipo_diario": "1",
+      "titulo": "Portaria n° 0105/2022 - SEMAT",
+      "codigo_identificador": "L8XYT3N743",
+      "endereco_diario": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
+    },
+    {
+      "id_diario": "241",
+      "ano": "2022",
+      "data_publicacao": "2022-10-05 09:17:00",
+      "tipo_diario": "0",
+      "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20220659",
+      "codigo_identificador": "MVFDJ9K340",
+      "endereco_diario": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+    },
+    {
+      "id_diario": "302",
+      "ano": "2022",
+      "data_publicacao": "2023-01-03 09:09:00",
+      "tipo_diario": "0",
+      "titulo": "Decreto n° 0786/2022-GPMB",
+      "codigo_identificador": "REDCRF5022",
+      "endereco_diario": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing"
+    }    
   ]
 }
